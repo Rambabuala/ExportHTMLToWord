@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pdfdocx-client-side-solution",
+    "id": "fd0239ce-ec22-47b5-8bf8-63a9c85f0ddf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/pdfdocx.sppkg"
+  }
+}
